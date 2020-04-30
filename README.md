@@ -10,9 +10,9 @@ The notebook contains all the necessary code to recreate the graphs contained in
  - Do not forget to upload already generated `.npy` data in order to avoid generating them, it takes a while.
  - If you do not see any graphs after running the cells, try running them one by one. At least my Opera browser gets very laggy and refuses to show some if I run them all via "Run all" button.
  - The sliders are little laggy too as the tutorials from plotly did not work.
- - Feel free to point any mistakes.
+ - Feel free to point out any mistakes.
 
 ## VAE
-I did try to implement simple VAE-Q version, but it does not work very well, I did not use Tournament selection, maybe that's why? Or I made some mistakes somewhere.
+I did try to implement a simple VAE-Q version, but it does not work very well, I did not use Tournament selection, maybe that's why? Or I made some mistakes somewhere.
 ## Sudoku
-Also did not work very well, gets stuck in local maxima all the time. But the model and encoding is not very good. Definitely see this presentation https://www.slideshare.net/InformaticaUCM/dealing-with-constraints-in-estimation-of-distribution-algorithms for more information on constrained models.
+Also did not work very well, gets stuck in local maxima all the time. But the model and the encoding is not very elaborate. Definitely see this presentation https://www.slideshare.net/InformaticaUCM/dealing-with-constraints-in-estimation-of-distribution-algorithms for more information on constrained models.
