@@ -2,7 +2,7 @@
 Presentation slides and generated data for Evolutionary Algorithms II about Estimation of Distribution Algorithms.
 
 # Presentation slides
-- The presentation slides should also be present [here].(https://docs.google.com/presentation/d/1moMqPstjdawwnlx5uaEdFxFht8BS38UN3B1u9_0dS_A/edit?usp=sharing).
+- The presentation slides should also be present [here](https://docs.google.com/presentation/d/1moMqPstjdawwnlx5uaEdFxFht8BS38UN3B1u9_0dS_A/edit?usp=sharing).
 - Sorry fot not showing (the better) half of them.
 # Notebook
 The notebook contains all the necessary code to recreate the graphs contained in the presentation as well as the source code for a few algorithms. I recommend running it directly in Google Colab:
